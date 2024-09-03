@@ -1,6 +1,6 @@
 #include <iostream>
 
-const int boxPos = 891;
+const int boxPos = 51;
 
 bool isBox(int pos) {
     return pos == boxPos;
